@@ -1,0 +1,16 @@
+[
+  {
+    "account":    "teamcarbonxtreme",
+    "repository": "android_device_samsung_cooperve",
+    "target_path": "device/samsung/cooperve",
+    "revision":    "cxr-kk"
+  },
+  {
+    "account":    "teamcarbonxtreme",
+    "repository": "android_kernel_samsung_bcm21553-common",
+    "target_path": "kernel/samsung/bcm21553-common",
+    "revision":    "cxr-kk"
+  },
+
+  
+]

@@ -1,0 +1,52 @@
+CXR ROM
+===========
+
+
+Development Team:
+-----------------
+* __ROM-PacMe__
+* __Nothing-Dev__
+* __Kristian__
+* __Jefer94__
+
+Forum Administrators:
+---------------------
+* __ROM-PacMe__
+* __Kristian__
+
+
+Web Administrators:
+-------------------
+* __jefer94__
+* __Krizthian__
+
+Graphics:
+--------------
+* __jefer94__
+* __ROM-PacMe__
+
+
+Devices:        Codename:       Maintainer:
+---------------------------------------------------------------------
+
+Motorola:
+---------------------------------------------------------------------
+* __Moto G (Global GSM) (falcon) :__ Krizthian
+* __Moto X (GSM) (ghost) :__ ROM-PacMe
+
+Samsung:
+---------------------------------------------------------------------
+* __Galaxy Ace i (cooperve) :__ ROM-PacMe
+* __Galaxy Ace (cooper) :__ Krizthian
+
+LG: 
+
+---------------------------------------------------------------------
+
+* __LG Optimus Me (pecan) :__ jefer94
+
+
+Total Devices: 5
+
+Best regards
+    ROM-PacMe

@@ -1,0 +1,16 @@
+[
+  {
+    "account":    "TeamCarbonXtreme",
+    "repository": "android_device_motorola_ghost",
+    "target_path": "device/motorola/ghost",
+    "revision":    "cxr-kk"
+  },
+  {
+    "account":    "TeamCarbonXtreme",
+    "repository": "android_kernel_motorola_ghost",
+    "target_path": "kernel/motorola/ghost",
+    "revision":    "cxr-kk"
+  },
+
+  
+]

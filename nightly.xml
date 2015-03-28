@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  This file is used to enable nightly builds for eligible devices.
+
+    import vendor.cxr.Device;
+    import vendor.cxr.Maintainers;
+    import vendor.cxr.Threads;
+
+    if (!device.getThreads() && !device.getMaintainers() && !device.downloadsPerWeek > 35) {
+      devices.runNightly=false;
+    }
+
+-->
+
+<manifest>
+   <device name="ghost" hasextras="0"/> 
+   <device name="falcon" hasextras="0"/>
+   <device name="pecan" hasextras="0" />
+   <device name="cooperve" hasextras="1"/> 
+   <device name="cooper" hasextras="1"/> 
+</manifest>

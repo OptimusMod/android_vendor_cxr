@@ -1,0 +1,15 @@
+<devices>
+    <vendor Name="LG">
+        <device FullName="Optimus Me" CodeName="pecan-p350"/>
+    </vendor>
+
+    <vendor Name="Motorola">
+        <device FullName="Moto G (Global GSM, Retail US)" CodeName="falcon"/>
+        <device FullName="Moto X (xt1058 - Moto X - GSM-rogers, non-US)" CodeName="ghost"/>
+    </vendor>
+
+    <vendor Name="Samsung">
+        <device FullName="Galaxy Ace" CodeName="cooper"/>
+        <device FullName="Galaxy Ace i" CodeName="cooperve"/> 
+    </vendor>
+</devices>
